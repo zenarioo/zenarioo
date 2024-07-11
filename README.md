@@ -1,4 +1,4 @@
-## Hello, my name is Miguel, I'm starting my journey as a developer and software engineering student.
+## Hi, my name is Miguel, I'm starting my journey as a developer and software engineering student. From Brazil
 
 <!--
 **zenarioo/zenarioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
