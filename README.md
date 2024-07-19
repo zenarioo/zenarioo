@@ -1,4 +1,5 @@
-##👋Hey there
+<h1 align="center">👋Hey there</h1>
+
 ### My name is Miguel, starting my journey as a developer and Software Engineering student. 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelnazario_/)
 
